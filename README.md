@@ -7,7 +7,8 @@ Functionality
 
 Database Manager 
  - May be used to create a new database of questions (a new unit for an example) by saving the questions on a .txt file 
- - As well, may add or edit questions to an existing database. 
+ - As well, may add or edit questions to an existing database.
+ 
  Test Manager
  - Randomly generates desired number of each type of question (knowledge, communication, thinking, application) from pre-existing database
  - May also edit/add questions within the GUI similar to the database manager
