@@ -3,8 +3,7 @@ The Test-Assistant program allows the user to edit or create a database question
 
 The Test-Assistant program is designed for teachers to store and create tests efficiently. The program has been divided into two sub-programs. 
 
-Functionality 
-
+# Functionality 
 Database Manager 
  - May be used to create a new database of questions (a new unit for an example) by saving the questions on a .txt file 
  - As well, may add or edit questions to an existing database.
