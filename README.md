@@ -3,6 +3,8 @@ The Test-Assistant program allows the user to edit or create a database question
 
 The Test-Assistant program is designed for teachers to store and create tests efficiently. The program has been divided into two sub-programs. 
 
+Functionality 
+
 Database Manager 
  - May be used to create a new database of questions (a new unit for an example) by saving the questions on a .txt file 
  - As well, may add or edit questions to an existing database. 
@@ -12,5 +14,14 @@ Database Manager
  - Added function to rename the test and regenerate an entirely new set of questions 
  - Finally, may export the test questions to a PDF document 
  
- Using the Database Manager to edit questions within the GUI 
- ![](H:\github\github\Gif1.gif)
+ Using the Database Manager to add and edit short questions within the GUI 
+ ![](Gif1.gif)
+ 
+ Using the Database Manager to add and edit multiple choice questions within the GUI
+ ![](Gif2.gif)
+ 
+ Using the Test Manager to generate and regenerate a test. Then exporting it to an external PDF document
+ ![](Gif3.gif) 
+ 
+ Created using IText API
+ 
