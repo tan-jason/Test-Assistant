@@ -15,13 +15,13 @@ Database Manager
  - Finally, may export the test questions to a PDF document 
  
  Using the Database Manager to add and edit short questions within the GUI 
-
+![](README-IMAGES/Gif1.gif)
 
  Using the Database Manager to add and edit multiple choice questions within the GUI
-
+![](README-IMAGES/Gif2.gif)
  
  Using the Test Manager to generate and regenerate a test. Then exporting it to an external PDF document
-
+![](README-IMAGES/Gif3.gif)
  
  Created using IText API
  
